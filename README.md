@@ -1,1 +1,1 @@
-# .github
+Open Tenant System
